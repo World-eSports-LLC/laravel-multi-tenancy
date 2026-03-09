@@ -1,6 +1,6 @@
 # Laravel package for post-authentication multi-tenancy in which the user only needs to install the package and their laravel install becomes multi-tenant
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/world-esports-llc/multi-tenancy.svg?style=flat-square)](https://packagist.org/packages/keithprinkey-ops/laravel-auto-tenancy)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/keithprinkey-ops/laravel-auto-tenancy.svg?style=flat-square)](https://packagist.org/packages/keithprinkey-ops/laravel-auto-tenancy)
 
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/world-esports-llc/multi-tenancy/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/world-esports-llc/laravel-auto-tenancy/actions?query=workflow%3Arun-tests+branch%3Amain)
 
