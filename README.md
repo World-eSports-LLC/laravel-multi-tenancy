@@ -1,6 +1,6 @@
 # Laravel package for post-authentication multi-tenancy in which the user only needs to install the package and their laravel install becomes multi-tenant
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/worldesports/multi-tenancy.svg?style=flat-square)](https://packagist.org/packages/worldesports/multi-tenancy)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/world-esports-llc/multi-tenancy.svg?style=flat-square)](https://packagist.org/packages/worldesports/multi-tenancy)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/worldesports/multi-tenancy/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/worldesports/multi-tenancy/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/worldesports/multi-tenancy/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/worldesports/multi-tenancy/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/worldesports/multi-tenancy.svg?style=flat-square)](https://packagist.org/packages/worldesports/multi-tenancy)
